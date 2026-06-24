@@ -20,15 +20,21 @@ const CATEGORY_COLORS = {
 
 async function loadProducts() {
   try {
-    const res = await fetch('products/products.json')
-    products = await res.json()
+    const res = await fetch('products/products.json?_=' + Date.now())
+    if (!res.ok) throw new Error('HTTP ' + res.status)
+    const data = await res.json()
+    if (!Array.isArray(data) || data.length === 0) throw new Error('Sin productos')
+    products = data
     render()
   } catch (e) {
     document.getElementById('products-grid').innerHTML =
       `<div class="product-card" style="grid-column:1/-1;text-align:center;padding:40px">
-        <p>🔌 Cargando productos...</p>
-        <p style="color:var(--text2);font-size:0.85rem;margin-top:8px">
-          Asegúrate de que products/products.json exista
+        <p style="font-size:1.2rem">📦 Tienda lista</p>
+        <p style="color:var(--text2);font-size:0.9rem;margin-top:8px">
+          Próximamente nuevos productos. ¡Vuelve pronto!
+        </p>
+        <p style="color:var(--text2);font-size:0.8rem;margin-top:12px">
+          <a href="https://paypal.me/marcelocorales" target="_blank" style="color:var(--accent)">Apóyanos en PayPal</a>
         </p>
       </div>`
   }
