@@ -1,0 +1,153 @@
+[
+  {
+    "id": "k9-detection-trainer",
+    "title": "K9 Detection Trainer App",
+    "category": "software",
+    "price": 10,
+    "description": "App profesional para tracking de entrenamiento de perros detectores. Registra sesiones, estadísticas, progreso. Incluye versión Free + Pro.",
+    "features": [
+      "Registro ilimitado de perros y sesiones",
+      "Estadísticas y gráficos de rendimiento",
+      "Exportación PDF de reportes",
+      "Modo offline / PWA instalable",
+      "Agente AI para planes de entrenamiento"
+    ],
+    "includes": "Código fuente completo (Svelte + JS vanilla), documentación, agente AI Training Coach",
+    "paypal_amount": 10,
+    "download_url": "https://github.com/Modestogenio/k9-detection-trainer-pro",
+    "image_emoji": "🐕",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "opencode-agents-pack",
+    "title": "OpenCode Agents Pack",
+    "category": "software",
+    "price": 7,
+    "description": "Pack de agentes y skills premium para OpenCode + Ollama + DeepSeek V4 Flash. Automatiza code review, generación de tests, documentación y más.",
+    "features": [
+      "5 agentes premium listos para usar",
+      "Skills especializados para OpenCode",
+      "Configuraciones optimizadas para DeepSeek V4 Flash",
+      "Documentación completa de uso",
+      "Actualizaciones gratuitas de por vida"
+    ],
+    "includes": "Archivos JSON de agentes, skills YAML, documentación, ejemplos de uso",
+    "paypal_amount": 7,
+    "download_url": "https://github.com/Modestogenio/opencode-agent-marketplace",
+    "image_emoji": "🤖",
+    "color": "#3b82f6"
+  },
+  {
+    "id": "manual-k9-basico",
+    "title": "Manual de Entrenamiento K9 - Nivel Básico",
+    "category": "manuales",
+    "price": 15,
+    "description": "Guía completa para iniciar el entrenamiento de perros detectores. Protocolos, ejercicios, métricas y planificación semanal.",
+    "features": [
+      "50+ páginas con ejercicios detallados",
+      "Protocolos de alineación y libre olfativa",
+      "Plan de 8 semanas para perros nuevos",
+      "Formato PDF imprimible",
+      "Listas de verificación por sesión"
+    ],
+    "includes": "PDF descargable + plantillas de sesión imprimibles",
+    "paypal_amount": 15,
+    "download_url": "https://paypal.me/marcelocorales/15",
+    "image_emoji": "📖",
+    "color": "#10b981"
+  },
+  {
+    "id": "manual-k9-avanzado",
+    "title": "Manual de Entrenamiento K9 - Nivel Avanzado",
+    "category": "manuales",
+    "price": 25,
+    "description": "Técnicas avanzadas para perros detectores: búsqueda en edificios, vehículos, áreas abiertas. Certificación y evaluación.",
+    "features": [
+      "80+ páginas con protocolos avanzados",
+      "Técnicas de búsqueda especializada",
+      "Preparación para certificaciones",
+      "Solución de problemas comunes",
+      "Bonus: plantillas de evaluación"
+    ],
+    "includes": "PDF descargable + bonus de plantillas de certificación",
+    "paypal_amount": 25,
+    "download_url": "https://paypal.me/marcelocorales/25",
+    "image_emoji": "📚",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": "recetario-k9-snacks",
+    "title": "Recetario de Snacks Saludables para Perros",
+    "category": "recetarios",
+    "price": 5,
+    "description": "30 recetas caseras y saludables para perros. Snacks para entrenamiento, premios y alimentación balanceada.",
+    "features": [
+      "30 recetas con fotos e instrucciones",
+      "Snacks para entrenamiento (altos y bajos en calorías)",
+      "Recetas para perros con alergias",
+      "Tabla nutricional por receta",
+      "Tips de conservación y almacenamiento"
+    ],
+    "includes": "PDF descargable + checklist de ingredientes",
+    "paypal_amount": 5,
+    "download_url": "https://paypal.me/marcelocorales/5",
+    "image_emoji": "🍪",
+    "color": "#ec4899"
+  },
+  {
+    "id": "ebook-ia-practica",
+    "title": "Ebook: IA Práctica para Entrenadores",
+    "category": "libros",
+    "price": 12,
+    "description": "Aprende a usar Inteligencia Artificial en tu trabajo diario como entrenador. OpenCode, Ollama y modelos locales explicados paso a paso.",
+    "features": [
+      "120+ páginas con ejemplos prácticos",
+      "Guía de instalación de Ollama + modelos",
+      "Automatización de reportes con IA",
+      "Creación de agentes personalizados",
+      "Casos de uso reales en entrenamiento K9"
+    ],
+    "includes": "PDF + EPUB + código de ejemplo descargable",
+    "paypal_amount": 12,
+    "download_url": "https://paypal.me/marcelocorales/12",
+    "image_emoji": "📱",
+    "color": "#06b6d4"
+  },
+  {
+    "id": "plantillas-sesion-k9",
+    "title": "Plantillas de Sesión K9 (Pack 50)",
+    "category": "manuales",
+    "price": 3,
+    "description": "50 plantillas profesionales para registrar sesiones de entrenamiento. Imprimibles y digitales.",
+    "features": [
+      "50 plantillas en PDF + Excel",
+      "Formato para libreta de campo",
+      "Versión digital editable",
+      "Incluye guía de llenado"
+    ],
+    "includes": "PDF imprimible + Excel editable + Google Sheets link",
+    "paypal_amount": 3,
+    "download_url": "https://paypal.me/marcelocorales/3",
+    "image_emoji": "📋",
+    "color": "#84cc16"
+  },
+  {
+    "id": "curso-online-k9-intro",
+    "title": "Curso Online: Introducción al K9 Detection",
+    "category": "cursos",
+    "price": 30,
+    "description": "Curso completo en video + material descargable. Desde cero hasta tu primera certificación.",
+    "features": [
+      "10 módulos con videos HD",
+      "Material descargable por módulo",
+      "Acceso a comunidad privada",
+      "Certificado al completar",
+      "Soporte directo por 30 días"
+    ],
+    "includes": "Videos (MP4) + PDFs + Certificado + Acceso a comunidad",
+    "paypal_amount": 30,
+    "download_url": "https://paypal.me/marcelocorales/30",
+    "image_emoji": "🎓",
+    "color": "#f97316"
+  }
+]
