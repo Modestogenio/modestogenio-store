@@ -6,11 +6,7 @@
 
 | Categoría | Productos |
 |-----------|-----------|
-| 💻 Software | K9 Detection Trainer, OpenCode Agents Pack |
-| 📖 Manuales | Manuales de entrenamiento K9, Plantillas |
-| 🍪 Recetarios | Snacks saludables para perros |
-| 📱 Libros | IA Práctica para Entrenadores |
-| 🎓 Cursos | Introducción al K9 Detection |
+| 💻 Software | K9 Detection Trainer App, OpenCode Agents Pack |
 
 ## 🚀 Demo
 
